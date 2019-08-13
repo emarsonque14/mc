@@ -108,10 +108,6 @@ if (!empty($_POST['user'])) {
 					<select name="version" id="version" class="span2">
 						<option value="1.14.4">Spigot 1.14.4</option>
 						<option value="1.11.2">Spigot 1.11.2</option>
-						<option value="1.10.2">Spigot 1.10.2</option>
-						<option value="1.9.4">Spigot 1.9.4</option>
-						<option value="1.8.8">Spigot 1.8.8</option>
-						<option value="1.7.10">Spigot 1.7.10</option>
 						<option value="BC">Bungeecord</option>
 						<option value="NONE">None</option>
 					</select>
